@@ -1,32 +1,32 @@
 # 🎵 404-Musics
 
-A simple Discord music bot built with TypeScript.
+A simple **Discord music bot** built with **TypeScript**.
 
 Streams music into voice channels with slash commands and a queue system.  
-Easy to run, easy to customize, and self-hostable.
+Easy to run ⚡ Easy to customize 🛠️ Easy to self-host 🚀
 
 ---
 
-## Features
+## ✨ Features
 
-- Play music in voice channels
-- Slash commands
-- Queue support
-- Pause / Resume / Skip / Stop
-- Modular TypeScript codebase
-
----
-
-## Requirements
-
-- Node.js (v16+)
-- npm or yarn
-- Discord bot token
-- FFmpeg
+- 🎶 Play music in voice channels
+- ⚡ Slash commands
+- 📜 Queue support
+- ⏯️ Pause / Resume / Skip / Stop
+- 🧩 Modular TypeScript codebase
 
 ---
 
-## Installation
+## ⚙️ Requirements
+
+- 🟢 Node.js (v16+)
+- 📦 npm or yarn
+- 🤖 Discord bot token
+- 🎧 FFmpeg
+
+---
+
+## 🚀 Installation
 
 Clone the repository:
 
@@ -43,7 +43,7 @@ npm install
 
 ---
 
-## Environment Setup
+## 🔐 Environment Setup
 
 Create a `.env` file:
 
@@ -55,16 +55,14 @@ GUILD_ID=YOUR_GUILD_ID
 
 ---
 
-## Run
+## ▶️ Run
 
-Development:
-
+### 🧪 Development
 ```bash
 npm run dev
 ```
 
-Production:
-
+### 🏭 Production
 ```bash
 npm run build
 npm start
@@ -72,25 +70,30 @@ npm start
 
 ---
 
-## Commands (example)
+## 🎮 Commands (example)
 
-- /play
-- /pause
-- /resume
-- /skip
-- /queue
-- /stop
-
----
-
-## Contributing
-
-Pull requests are welcome.
+- ▶️ /play  
+- ⏸️ /pause  
+- ▶️ /resume  
+- ⏭️ /skip  
+- 📜 /queue  
+- ⏹️ /stop  
 
 ---
 
-## License
+## 🤝 Contributing
+
+Pull requests are welcome.  
+Ideas, fixes, and improvements are always appreciated 💡
+
+---
+
+## 📜 License
 
 MIT
 
 Free to use, modify, and distribute.
+
+---
+
+Made with TypeScript, caffeine ☕, and packets of electrons ⚡
